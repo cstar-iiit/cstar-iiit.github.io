@@ -30,9 +30,9 @@
      inkscape:cx="320.92819"
      inkscape:cy="431.7943"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
-     inkscape:window-y="1112"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1501" />
   <defs
@@ -40,7 +40,17 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#010000;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       id="rect81712"
+       width="370.07486"
+       height="287.82816"
+       x="-76.157265"
+       y="0.61669302"
+       rx="0.0004272465"
+       ry="10.000853" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -145,17 +155,125 @@
        r="7.1217918" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:49.1031px;line-height:1.25;font-family:sans-serif;fill:#feffff;fill-opacity:1;stroke:#010000;stroke-width:3.72803;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="18.040922"
-       y="176.269"
-       id="text8207"
-       inkscape:export-filename="/home/girish/sites/cstar-website/static/img/cstar-logo_2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5986px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264965"
+       x="76.930374"
+       y="84.14856"
+       id="text22002"><tspan
          sodipodi:role="line"
-         id="tspan8205"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.1031px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#feffff;fill-opacity:1;stroke:#010000;stroke-width:3.72803;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="18.040922"
-         y="176.269">CSTAR</tspan></text>
+         id="tspan22000"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264965"
+         x="76.930374"
+         y="84.14856">Complexity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#fff8ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.90256"
+       y="150.83109"
+       id="text29020"><tspan
+         sodipodi:role="line"
+         id="tspan29018"
+         style="fill:#fff8ff;fill-opacity:1;stroke-width:0.264583"
+         x="150.90256"
+         y="150.83109">Algorithms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.8313px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.270783"
+       x="11.554109"
+       y="147.7495"
+       id="text38688"><tspan
+         sodipodi:role="line"
+         id="tspan38686"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.270783"
+         x="11.554109"
+         y="147.7495">Quantum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.498882"
+       y="205.18912"
+       id="text48284"><tspan
+         sodipodi:role="line"
+         id="tspan48282"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="52.498882"
+         y="205.18912">Optimization</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="149.76187"
+       y="180.46341"
+       id="text55120"><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="149.76187"
+         y="180.46341"
+         id="tspan55122">Graphs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.587807"
+       y="44.780422"
+       id="text62660"
+       inkscape:transform-center-x="-0.83223656"
+       inkscape:transform-center-y="-10.324612"><tspan
+         sodipodi:role="line"
+         id="tspan62658"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="87.587807"
+         y="44.780422">Security</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="186.63991"
+       y="99.869522"
+       id="text65832"><tspan
+         sodipodi:role="line"
+         id="tspan65830"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="186.63991"
+         y="99.869522">Privacy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-8.5661783"
+       y="74.350128"
+       id="text69652"><tspan
+         sodipodi:role="line"
+         id="tspan69650"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="-8.5661783"
+         y="74.350128">Distributed</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="-8.5661783"
+         y="87.579254"
+         id="tspan69654">Computing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.956831"
+       y="245.29213"
+       id="text76420"><tspan
+         sodipodi:role="line"
+         id="tspan76418"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="18.956831"
+         y="245.29213">Networks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="149.50423"
+       y="243.25822"
+       id="text99892"><tspan
+         sodipodi:role="line"
+         id="tspan99890"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="149.50423"
+         y="243.25822">Machine</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="149.50423"
+         y="256.48734"
+         id="tspan100058">Learning</tspan></text>
   </g>
 </svg>

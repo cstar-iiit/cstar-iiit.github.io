@@ -30,11 +30,11 @@
      inkscape:cx="320.92819"
      inkscape:cy="431.7943"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1112"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g1501" />
   <defs
      id="defs2" />
   <g
@@ -84,7 +84,7 @@
   <g
      id="g1501">
     <circle
-       style="fill:#00f1ff;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       style="fill:#008dff;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
        id="path853-8"
        cx="195.81355"
        cy="120.36607"
@@ -96,19 +96,19 @@
        cy="55.557724"
        r="7.1217918" />
     <circle
-       style="fill:#00f1ff;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       style="fill:#008dff;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
        id="path853-8-6"
        cx="18.131447"
        cy="120.53641"
        r="7.1217918" />
     <circle
-       style="fill:#00f1ff;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       style="fill:#008dff;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
        id="path853-8-6-0"
        cx="107.22553"
        cy="95.424324"
        r="7.1217918" />
     <circle
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       style="fill:#00ce00;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
        id="path853-8-6-0-4"
        cx="56.977219"
        cy="129.61267"
@@ -126,7 +126,7 @@
        cy="187.05351"
        r="7.1217918" />
     <circle
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       style="fill:#00ce00;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
        id="path853-8-6-0-4-9"
        cx="76.443451"
        cy="187.09668"
@@ -138,7 +138,7 @@
        cy="225.79906"
        r="7.1217918" />
     <circle
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       style="fill:#00ce00;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
        id="path853-8-6-0-4-76"
        cx="161.63046"
        cy="225.87563"

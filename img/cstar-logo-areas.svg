@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="250mm" version="1.1" viewBox="0 0 210 250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m166.14 69.513-64.494-47.057-64.623 47.228 23.438 77.002 80.77-0.27118-17.272-28.217-58.673-41.743 71.666 0.30453-57.178 41.398 22.045-66.531" fill="none" stroke="#ff0" stroke-linejoin="bevel" stroke-width="7.6814"/>
+ <g transform="matrix(.72581 0 0 .72581 23.98 -17.917)">
+  <g fill="none" stroke="#7f7e7e" stroke-width="2.1167">
+   <path d="m195.87 120.46-88.858-64.834-89.037 65.07 32.292 106.09 111.28-0.37363z"/>
+   <path d="m107.01 55.625c0.23578 40.191 0.23578 40.191 0.23578 40.191"/>
+   <path d="m155.65 130.44 40.217-9.9833"/>
+   <path d="m56.914 130.02-38.939-9.3282"/>
+   <path d="m76.875 187.48-26.608 39.307"/>
+   <path d="m137.75 187.54 23.797 38.877"/>
+   <path d="m76.875 187.48 30.373-91.664 30.505 91.72-80.839-57.513 98.74 0.41959-78.779 57.037"/>
+  </g>
+  <text x="24.529764" y="306.35562" fill="#fefefe" font-family="sans-serif" font-size="55.866px" stroke="#000000" stroke-width="3.5473" style="line-height:1.25" xml:space="preserve"><tspan x="24.529764" y="306.35562" fill="#fefefe" font-family="'Cascadia Code'" font-size="55.866px" font-weight="bold" stroke="#000000" stroke-width="3.5473" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">CSTAR</tspan></text>
+  <a/>
+  <g fill="#fffff3" font-family="sans-serif" font-size="8.7361px" font-weight="bold" stroke-width=".2184">
+   <text x="74.863083" y="32.594971" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.863083" y="32.594971" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Algorithms &amp;</tspan><tspan x="74.863083" y="43.515057" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"> Complexity</tspan></text>
+   <text x="-31.189478" y="107.31586" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-31.189478" y="107.31586" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Security &amp;</tspan><tspan x="-31.189478" y="118.23595" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Privacy</tspan></text>
+   <text x="-24.443443" y="234.64282" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-24.443443" y="234.64282" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Distributed &amp;</tspan><tspan x="-24.443443" y="245.56291" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Parallel Computing</tspan></text>
+   <text x="153.01291" y="236.2897" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="153.01291" y="236.2897" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">           Theory for </tspan><tspan x="153.01291" y="247.20979" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Machine Learning</tspan></text>
+   <text x="201.27452" y="128.31784" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="201.27452" y="128.31784" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">   Quantum</tspan><tspan x="201.27452" y="139.23793" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Computing</tspan></text>
+  </g>
+  <a transform="translate(0 -5.1035)" xlink:href="https://iiit.ac.in">
+   <text x="-0.24840865" y="353.75385" fill="#000000" font-family="sans-serif" font-size="30.417px" stroke="#000000" stroke-width=".93013" style="line-height:1.25" xml:space="preserve"><tspan x="-0.24840865" y="353.75385" fill="#ffffff" stroke="#000000" stroke-width=".93013">IIIT Hyderabad</tspan></text>
+  </a>
+  <g>
+   <circle cx="195.81" cy="120.37" r="7.1218" fill="#008dff" style="paint-order:markers stroke fill"/>
+   <circle cx="106.68" cy="55.558" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+   <circle cx="18.131" cy="120.54" r="7.1218" fill="#008dff" style="paint-order:markers stroke fill"/>
+   <circle cx="107.23" cy="95.424" r="7.1218" fill="#008dff" style="paint-order:markers stroke fill"/>
+   <circle cx="56.977" cy="129.61" r="7.1218" fill="#00ce00" style="paint-order:markers stroke fill"/>
+   <circle cx="155.59" cy="130.22" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+   <circle cx="137.35" cy="187.05" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+   <circle cx="76.443" cy="187.1" r="7.1218" fill="#00ce00" style="paint-order:markers stroke fill"/>
+   <circle cx="50.48" cy="225.8" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+   <circle cx="161.63" cy="225.88" r="7.1218" fill="#00ce00" style="paint-order:markers stroke fill"/>
+  </g>
+ </g>
+</svg>

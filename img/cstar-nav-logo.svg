@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="600mm" height="140mm" version="1.1" viewBox="0 0 600 140" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g fill="none">
+  <path d="m137.8 55.51-65.391-47.711-65.522 47.885 23.764 78.073 81.892-0.27495-17.512-28.61-59.489-42.323 72.662 0.30876-57.973 41.974 22.351-67.455" stroke="#ff0" stroke-linejoin="bevel" stroke-width="7.7882"/>
+  <g stroke="#7f7e7e" stroke-width="1.5576">
+   <path d="m137.8 55.51-65.39-47.711-65.522 47.885 23.764 78.073 81.892-0.27495z"/>
+   <path d="m72.406 7.7985c0.17351 29.576 0.17351 29.576 0.17351 29.576"/>
+   <path d="m108.2 62.856 29.595-7.3467"/>
+   <path d="m35.539 62.548-28.655-6.8646"/>
+   <path d="m50.228 104.83-19.581 28.926"/>
+   <path d="m95.028 104.87 17.512 28.61"/>
+   <path d="m50.228 104.83 22.351-67.455 22.448 67.497-59.489-42.323 72.662 0.30877-57.973 41.974"/>
+  </g>
+ </g>
+ <a transform="matrix(.64529 0 0 .62084 162.81 -184.35)" fill="#fff" xlink:href="https://iiit.ac.in">
+  <text x="14.200941" y="361.93588" fill="#ffffff" font-family="sans-serif" font-size="48.25px" stroke-width="1.4754" style="line-height:1.25" xml:space="preserve"><tspan x="14.200941" y="361.93588" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Center for Security, Theory</tspan><tspan x="14.200941" y="422.24838" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">&amp; Algorithmic Reserach</tspan></text>
+ </a>
+ <a transform="matrix(.67106 0 0 .64563 121.65 -173.41)" fill="#fff" xlink:href="https://iiit.ac.in">
+  <text x="72.98262" y="451.50256" fill="#ffffff" font-family="sans-serif" font-size="48.25px" stroke-width="1.4754" style="line-height:1.25" xml:space="preserve"><tspan x="72.98262" y="451.50256" fill="#ffffff" font-family="sans-serif" font-size="48.25px" stroke-width="1.4754" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">IIIT Hyderabad</tspan></text>
+ </a>
+ <g transform="matrix(.7359 0 0 .7359 -6.3436 -33.135)">
+  <circle cx="195.81" cy="120.37" r="7.1218" fill="#008dff" style="paint-order:markers stroke fill"/>
+  <circle cx="106.68" cy="55.558" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+  <circle cx="18.131" cy="120.54" r="7.1218" fill="#008dff" style="paint-order:markers stroke fill"/>
+  <circle cx="107.23" cy="95.424" r="7.1218" fill="#008dff" style="paint-order:markers stroke fill"/>
+  <circle cx="56.977" cy="129.61" r="7.1218" fill="#00ce00" style="paint-order:markers stroke fill"/>
+  <circle cx="155.59" cy="130.22" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+  <circle cx="137.35" cy="187.05" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+  <circle cx="76.443" cy="187.1" r="7.1218" fill="#00ce00" style="paint-order:markers stroke fill"/>
+  <circle cx="50.48" cy="225.8" r="7.1218" fill="#ff2700" style="paint-order:markers stroke fill"/>
+  <circle cx="161.63" cy="225.88" r="7.1218" fill="#00ce00" style="paint-order:markers stroke fill"/>
+ </g>
+ <text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="40px" style="line-height:1.25;shape-inside:url(#rect99158);white-space:pre" xml:space="preserve"/>
+ <text x="14.325168" y="96.890686" fill="#fefefe" font-family="sans-serif" font-size="41.112px" stroke="#000000" stroke-width="2.6104" style="line-height:1.25" xml:space="preserve"><tspan x="14.325168" y="96.890686" fill="#fefefe" font-family="'Cascadia Code'" font-size="41.112px" font-weight="bold" stroke="#000000" stroke-width="2.6104" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">CSTAR</tspan></text>
+</svg>

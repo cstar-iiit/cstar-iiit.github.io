@@ -18,11 +18,11 @@
      id="defs975" />
   <sodipodi:namedview
      id="namedview973"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
@@ -72,8 +72,8 @@
     </g>
   </g>
   <a
-     transform="matrix(.64529 0 0 .62084 162.81 -184.35)"
-     fill="#fff"
+     transform="matrix(0.64529,0,0,0.62084,162.81,-184.35)"
+     fill="#ffffff"
      xlink:href="https://iiit.ac.in"
      id="a935">
     <text
@@ -88,35 +88,35 @@
        id="text933"><tspan
          x="14.200941"
          y="361.93588"
-         style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          id="tspan929">Center for Security, Theory</tspan><tspan
          x="14.200941"
          y="422.24838"
-         style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
-         id="tspan931">&amp; Algorithmic Reserach</tspan></text>
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan931">&amp; Algorithmic Research</tspan></text>
   </a>
   <a
-     transform="matrix(.67106 0 0 .64563 121.65 -173.41)"
-     fill="#fff"
-     xlink:href="https://iiit.ac.in"
-     id="a941">
+     id="a20816"
+     target="_blank"
+     xlink:href="https://iiit.ac.in">
     <text
-       x="72.98262"
-       y="451.50256"
+       x="167.36154"
+       y="120.39687"
        fill="#ffffff"
        font-family="sans-serif"
-       font-size="48.25px"
-       stroke-width="1.4754"
+       font-size="31.7592px"
+       stroke-width="0.971141"
        style="line-height:1.25"
        xml:space="preserve"
-       id="text939"><tspan
-         x="72.98262"
-         y="451.50256"
+       id="text939"
+       transform="scale(1.0195037,0.98086937)"><tspan
+         x="167.36154"
+         y="120.39687"
          fill="#ffffff"
          font-family="sans-serif"
-         font-size="48.25px"
-         stroke-width="1.4754"
-         style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+         font-size="31.7592px"
+         stroke-width="0.971141"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          id="tspan937">IIIT Hyderabad</tspan></text>
   </a>
   <g

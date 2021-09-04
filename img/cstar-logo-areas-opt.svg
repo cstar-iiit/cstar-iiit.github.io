@@ -18,11 +18,11 @@
      id="defs92" />
   <sodipodi:namedview
      id="namedview90"
-     pagecolor="#ffffff"
+     pagecolor="#000600"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
@@ -34,7 +34,7 @@
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g86" />
+     inkscape:current-layer="g56" />
   <path
      d="m 188.37,76.392 -64.494,-47.057 -64.623,47.228 23.438,77.002 80.77,-0.27118 -17.272,-28.217 -58.673,-41.743 71.666,0.30453 -57.178,41.398 22.045,-66.531"
      fill="none"
@@ -122,20 +122,25 @@
            y="50.655647"
            style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="tspan40">Parallel Computing</tspan></text>
-      <text
-         x="176.23589"
-         y="244.1449"
-         style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         xml:space="preserve"
-         id="text48"><tspan
+      <a
+         id="a21888"
+         xlink:href="/project/machine-learning/"
+         target="_blank">
+        <text
            x="176.23589"
            y="244.1449"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="tspan44">           Theory for </tspan><tspan
-           x="176.23589"
-           y="258.83591"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="tspan46">Machine Learning</tspan></text>
+           style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
+           xml:space="preserve"
+           id="text48"><tspan
+             x="176.23589"
+             y="244.1449"
+             style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
+             id="tspan44">           Theory for </tspan><tspan
+             x="176.23589"
+             y="258.83591"
+             style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
+             id="tspan46">Machine Learning</tspan></text>
+      </a>
       <text
          x="231.26053"
          y="139.29057"

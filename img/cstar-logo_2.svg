@@ -31,11 +31,11 @@
      inkscape:cx="788.05234"
      inkscape:cy="425.10711"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1489"
      height="250mm" />
   <defs
      id="defs2" />
@@ -49,12 +49,12 @@
      inkscape:label="hampath">
     <path
        style="fill:none;stroke:#ffff00;stroke-width:7.68143;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 166.14405,72.158731 101.65012,25.101622 37.026702,72.329671 60.464378,149.33175 141.23394,149.06057 123.96189,120.84324 65.288578,79.100161 136.95445,79.404691 79.776472,120.80273 101.82124,54.272151 v 0"
+       d="M 166.14405,69.512896 101.65012,22.455787 37.026702,69.683836 60.464378,146.6859 141.23394,146.41472 123.96189,118.19739 65.288578,76.454326 136.95445,76.758856 79.776472,118.15688 101.82124,51.626316 v 0"
        id="path2645" />
   </g>
   <g
      id="g1489"
-     transform="matrix(0.72580607,0,0,0.72580607,23.980119,-15.270983)">
+     transform="matrix(0.72580607,0,0,0.72580607,23.980119,-17.916818)">
     <path
        style="fill:none;stroke:#7f7e7e;stroke-width:2.11667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 195.87029,120.45877 C 107.01201,55.624507 107.01201,55.624507 107.01201,55.624507 L 17.975294,120.6943 50.267221,226.7861 161.54969,226.41247 Z"
@@ -87,7 +87,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:55.8665px;line-height:1.25;font-family:sans-serif;fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:3.5473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.529764"
-       y="308.54282"
+       y="306.35562"
        id="text4261"
        inkscape:export-filename="/home/girish/sites/cstar-website/static/img/cstar-logo_areas.png"
        inkscape:export-xdpi="96"
@@ -96,7 +96,7 @@
          id="tspan4259"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.8665px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:3.5473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="24.529764"
-         y="308.54282">CSTAR</tspan></text>
+         y="306.35562">CSTAR</tspan></text>
     <a
        id="a80265" />
     <text
@@ -181,7 +181,8 @@
          id="tspan72859-7">Computing</tspan></text>
     <a
        id="a94381"
-       xlink:href="https://iiit.ac.in">
+       xlink:href="https://iiit.ac.in"
+       transform="translate(0,-5.1035214)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:30.4173px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.930129;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -197,7 +198,7 @@
   </g>
   <g
      id="g1501"
-     transform="matrix(0.72580607,0,0,0.72580607,23.980119,-15.270983)">
+     transform="matrix(0.72580607,0,0,0.72580607,23.980119,-17.916818)">
     <circle
        style="fill:#008dff;fill-opacity:1;stroke:none;stroke-width:6.4542;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
        id="path853-8"

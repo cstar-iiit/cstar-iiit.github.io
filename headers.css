@@ -30,3 +30,134 @@
 .dropdown-toggle {
   outline: 0;
 }
+
+
+#navbar-main {
+  margin-top: 10px;
+}
+
+@media (max-width:1200px) {
+
+#navbar-main {
+  margin-top: 0px;
+}
+}
+@media (max-width:700px) {
+  .map {
+    width: 500px;
+  }
+
+}
+@media (max-width:480px) {
+  .map {
+    width: 300px;
+  }
+}
+
+img {
+max-width: 100%;
+height: auto;
+}
+text.hover:hover {
+text-decoration: underline
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+section {
+  padding: 40px 0px;
+}
+
+section  h2 {
+  margin-bottom: 30px;
+}
+#people .col > .card {
+  border: 0px;
+  text-align: center;
+}
+
+.col > .card > svg {
+  margin: 0 auto;
+}
+
+#logo a {
+  color: black !important;
+  text-decoration: none;
+  
+}
+#logo a:hover {
+  color: black !important;
+  text-decoration: underline;
+  
+}
+
+
+
+.carousel-caption {
+background-color: rgba(255, 255, 255, 0.753) ;
+color: black;
+padding: 20px;
+bottom: 0px;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.carousel-indicators {
+margin-bottom: 0;
+
+}
+
+#people .card {
+background-color: unset;
+}
+.page {
+max-width: 800px;
+margin: 0 auto;
+padding-top: 0px;
+}
+
+.navbar {
+background-color: rgb(31 31 95);
+}
+
+
+.navbar a {
+color: white;
+}
+
+#logo a {
+color: white !important;
+}
+
+a {
+color: rgb(19, 30, 190);
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+
+
+.nav-link:focus, .nav-link:hover, #logo a:hover  {
+color: yellow !important;
+text-decoration: underline;
+}
+
+.bg-light {
+background-color: rgb(218, 218, 255);
+}
+

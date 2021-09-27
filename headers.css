@@ -158,3 +158,9 @@ text-decoration: underline;
 background-color: rgb(218, 218, 255);
 }
 
+
+
+.dropdown-menu, .dropdown-menu:hover {
+  background-color: rgb(31 31 95);
+  border: 1px grey solid;
+}

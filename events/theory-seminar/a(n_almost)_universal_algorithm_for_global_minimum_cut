@@ -1,0 +1,22 @@
+---
+title:                  "A(n almost) Universal Algorithm for Global Minimum Cut"
+speaker:                "Sagnik Mukhopadhyay"
+speaker_affiliation:    "University of Copenhagen, Denmark"
+speaker_home:           "https://sagnikmukhopadhyay.me/"
+time:                   "5PM, 27th October, 2021"
+event_type:             "Theory Seminar"
+date:                   2021-10-24T17:00:00+05:30
+publishdate:            2021-09-06T17:00:00+05:30
+---
+
+##### Abstract: Consider the following 2-respecting min-cut problem: Given a weighted graph G and its spanning tree T, 
+find the minimum cut among the cuts that contain at most two edges in T. 
+This problem is an important subroutine in Karger's celebrated randomized near-linear-time min-cut algorithm [STOC'96]. 
+I will present a new approach for this problem which can be easily implemented in many settings, such as sequential, cut-query, streaming, PRAM, distributed CONGEST, and 2-party communication protocol, each achieving the state of the art.
+
+In this talk, I will focus on the cut-query and communication setting. 
+No additional background other than basic graph algorithms and probability is necessary for following the talk.
+
+This is a culmination of three papers with co-authors Danupon Nanogkai, Yuval Efron, Michal Dory, and Andrés Lopez Martinez.
+
+

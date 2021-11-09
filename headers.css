@@ -164,3 +164,7 @@ background-color: rgb(218, 218, 255);
   background-color: rgb(31 31 95);
   border: 1px grey solid;
 }
+
+div.align-items-start {
+border-left: 1px solid #969ae7;
+}

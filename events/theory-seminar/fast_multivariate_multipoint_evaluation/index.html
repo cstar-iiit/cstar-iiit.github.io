@@ -105,39 +105,14 @@
 <div class="container">
 <div class="page">
   <div class="text-muted mt-3">Theory Seminar</div>
-  <h2 class="py-3">Quantum weirdness in query-to-communication simulation and the role of symmetry</h2>
-  <span>Speaker: <a href="">Manaswi Paraashar</a>, Indian Statistical Institute, Kolkata</span><br/>
-  <span>Time: 5PM, 10th November, 2021</span>
+  <h2 class="py-3">Fast Multivariate Multipoint Evaluation</h2>
+  <span>Speaker: <a href="">Mrinal Kumar</a>, Tata Institute of Fundamental Research, Mumbai</span><br/>
+  <span>Time: 3:45PM, 10th April, 2023</span>
 <p>
   <h5 id="abstract">Abstract</h5>
-<p>Buhrman, Cleve and Wigderson (STOC'98) showed that for every Boolean function $f : {0,1}^n \to {0,1}$ and $G \in {AND_2, XOR_2}$,
-the bounded-error quantum communication complexity of the composed function (f \circ G) equals O(Q(f) log n),
-where Q(f) denotes the bounded-error quantum query complexity of f. This is known as the BCW Simulation Theorem.
-This is in contrast with the classical setting, where it is easy to show that $R^{cc}(f \circ G) \leq 2R(f)$,
-where R^{cc} and R denote bounded-error communication and query complexity, respectively.
-We exhibited a total function for which the (log n) overhead in the BCW simulation is required.</p>
-<p>We also answer several questions in quantum query-to-communication simulation:</p>
-<ol>
-<li>
-<p>We show that the (log n) overhead is not required when f is symmetric (i.e., depends only on the Hamming weight of its input),
-generalizing a result of Aaronson and Ambainis for the Set-Disjointness function (Theory of Computing'05).</p>
-</li>
-<li>
-<p>In order to prove the above, we design an efficient distributed version of noisy amplitude amplification that allows us to prove the result when f is the OR function.</p>
-</li>
-<li>
-<p>One may ask whether the (log n) overhead in the BCW Simulation Theorem can be avoided even when f is transitive, which is a weaker notion of symmetry.
-We give a strong negative answer by showing that the (log n) overhead is still necessary for some transitive functions even when we allow
-the quantum communication protocol an error probability that can be arbitrarily close to 1/2 (this corresponds to the unbounded-error model of communication).</p>
-</li>
-<li>
-<p>We also give, among other things, a general recipe to construct functions for which the (log n) overhead is required in the BCW Simulation Theorem in the bounded-error communication model,
-even if the parties are allowed to share an arbitrary prior entangled state for free.</p>
-</li>
-</ol>
-<p>This talk is based on two joint works with Sourav Chakraborty, Arkadev Chattopadhyay, Peter Hoyer, Nikhil Mande and Ronald de Wolf.</p>
-<h5 id="video">Video</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KmBJG59TF3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Multipoint evaluation is the computational task of evaluating a polynomial given as a list of coefficients at a given set of inputs. A straightforward algorithm for this problem is to just iteratively evaluate the polynomial at each of the inputs. The question of obtaining faster-than-naive (and ideally, close to linear time) algorithms for this problem is a natural and fundamental question in computational algebra. In addition to its own inherent interest, faster algorithms for multipoint evaluation are closely related to fast algorithms for other natural algebraic questions like polynomial factorization and modular composition.
+In this talk, I will briefly survey the state of art for this problem, and mention some recent improvements and applications.</p>
+
 </p>
 </div>
 </div>

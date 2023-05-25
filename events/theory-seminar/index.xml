@@ -6,32 +6,14 @@
     <description>Recent content in Hyderabad Theory Seminars (jointly by IIIT &amp; IIT Hyd) on CSTAR | IIIT Hyderabad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2023 17:00:00 +0530</lastBuildDate><atom:link href="http://cstar.iiit.ac.in/events/theory-seminar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 17:00:00 +0530</lastBuildDate><atom:link href="http://cstar.iiit.ac.in/events/theory-seminar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fast Multivariate Multipoint Evaluation</title>
-      <link>http://cstar.iiit.ac.in/events/theory-seminar/fast_multivariate_multipoint_evaluation/</link>
-      <pubDate>Mon, 10 Apr 2023 17:00:00 +0530</pubDate>
+      <title>How to store a graph?</title>
+      <link>http://cstar.iiit.ac.in/events/theory-seminar/how_to_store_a_graph/</link>
+      <pubDate>Wed, 10 May 2023 17:00:00 +0530</pubDate>
       
-      <guid>http://cstar.iiit.ac.in/events/theory-seminar/fast_multivariate_multipoint_evaluation/</guid>
-      <description>Abstract Multipoint evaluation is the computational task of evaluating a polynomial given as a list of coefficients at a given set of inputs. A straightforward algorithm for this problem is to just iteratively evaluate the polynomial at each of the inputs. The question of obtaining faster-than-naive (and ideally, close to linear time) algorithms for this problem is a natural and fundamental question in computational algebra. In addition to its own inherent interest, faster algorithms for multipoint evaluation are closely related to fast algorithms for other natural algebraic questions like polynomial factorization and modular composition.</description>
-    </item>
-    
-    <item>
-      <title>Algorithmizing the Multiplicity Schwartz-Zippel Lemma</title>
-      <link>http://cstar.iiit.ac.in/events/theory-seminar/algorithmizing_the_multiplicity_schwartz-zippel_lemma/</link>
-      <pubDate>Fri, 10 Feb 2023 17:00:00 +0530</pubDate>
-      
-      <guid>http://cstar.iiit.ac.in/events/theory-seminar/algorithmizing_the_multiplicity_schwartz-zippel_lemma/</guid>
-      <description>Abstract The degree maxim states that any non-zero univariate polynomial of degree at most d has at most d roots (counted with multiplicity). A generalization of this to the multivariate setting, proved by Dvir-Kopparty-Saraf-Sudan asserts that over any field, a low-degree polynomial cannot vanish with high multiplicity very often on a sufficiently large product set. It has found numerous applications; in particular, in the definition and properties of multiplicity codes by Kopparty-Saraf-Yekhanin.</description>
-    </item>
-    
-    <item>
-      <title>Godsil type identities of the multi-variate independence polynomials of graphs from heaps theory.</title>
-      <link>http://cstar.iiit.ac.in/events/theory-seminar/godsil_type_identities/</link>
-      <pubDate>Sat, 08 Oct 2022 17:00:00 +0530</pubDate>
-      
-      <guid>http://cstar.iiit.ac.in/events/theory-seminar/godsil_type_identities/</guid>
-      <description>Abstract Given a simple graph G, one can associate a monoid called Cartier–Foata monoid of G (denote it as CF(G)). It is also called trace monoid or partially commutative monoid of G in the literature. Viennot introduced &amp;ldquo;heaps of pieces&amp;rdquo; that give geometric interpretations of elements of CF(G). One can show that the monoid of heaps of pieces in the vertices of G with the concurrency relation determined by G is equivalent to CF(G).</description>
+      <guid>http://cstar.iiit.ac.in/events/theory-seminar/how_to_store_a_graph/</guid>
+      <description>Abstract How does one store a graph in the database? Typically the vertices are labelled by a set {1, 2, &amp;hellip;, n}. The edges can be denoted in many different ways: adjacency matrix, incidence matrix, adjacency list, to name a few. But what if the vertices are labelled in a more creative way, such that the labels of the vertices themselves denote their adjacencies? This eliminates the need for storing the edges!</description>
     </item>
     
     <item>
@@ -108,6 +90,33 @@ In this talk we shall outline some of the connections between Boolean Circuit Co
       
       <guid>http://cstar.iiit.ac.in/events/theory-seminar/shortest_paths_in_time_varying_networks/</guid>
       <description>Abstract: Suppose you are given the traffic situation on each road of your city and you want to find the quickest way to your workplace from your home. The city&amp;rsquo;s road network can be modelled by a graph whose edge weights represent the amount of traffic on the roads. Now the problem boils down to computing a shortest path in this graph, which can be solved by standard algorithms (Dijkstra&amp;rsquo;s algorithm, Bellman-Ford-Moore algorithm).</description>
+    </item>
+    
+    <item>
+      <title>Algorithmizing the Multiplicity Schwartz-Zippel Lemma</title>
+      <link>http://cstar.iiit.ac.in/events/theory-seminar/algorithmizing_the_multiplicity_schwartz-zippel_lemma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cstar.iiit.ac.in/events/theory-seminar/algorithmizing_the_multiplicity_schwartz-zippel_lemma/</guid>
+      <description>Abstract The degree maxim states that any non-zero univariate polynomial of degree at most d has at most d roots (counted with multiplicity). A generalization of this to the multivariate setting, proved by Dvir-Kopparty-Saraf-Sudan asserts that over any field, a low-degree polynomial cannot vanish with high multiplicity very often on a sufficiently large product set. It has found numerous applications; in particular, in the definition and properties of multiplicity codes by Kopparty-Saraf-Yekhanin.</description>
+    </item>
+    
+    <item>
+      <title>Fast Multivariate Multipoint Evaluation</title>
+      <link>http://cstar.iiit.ac.in/events/theory-seminar/fast_multivariate_multipoint_evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cstar.iiit.ac.in/events/theory-seminar/fast_multivariate_multipoint_evaluation/</guid>
+      <description>Abstract Multipoint evaluation is the computational task of evaluating a polynomial given as a list of coefficients at a given set of inputs. A straightforward algorithm for this problem is to just iteratively evaluate the polynomial at each of the inputs. The question of obtaining faster-than-naive (and ideally, close to linear time) algorithms for this problem is a natural and fundamental question in computational algebra. In addition to its own inherent interest, faster algorithms for multipoint evaluation are closely related to fast algorithms for other natural algebraic questions like polynomial factorization and modular composition.</description>
+    </item>
+    
+    <item>
+      <title>Godsil type identities of the multi-variate independence polynomials of graphs from heaps theory.</title>
+      <link>http://cstar.iiit.ac.in/events/theory-seminar/godsil_type_identities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cstar.iiit.ac.in/events/theory-seminar/godsil_type_identities/</guid>
+      <description>Abstract Given a simple graph G, one can associate a monoid called Cartier–Foata monoid of G (denote it as CF(G)). It is also called trace monoid or partially commutative monoid of G in the literature. Viennot introduced &amp;ldquo;heaps of pieces&amp;rdquo; that give geometric interpretations of elements of CF(G). One can show that the monoid of heaps of pieces in the vertices of G with the concurrency relation determined by G is equivalent to CF(G).</description>
     </item>
     
   </channel>

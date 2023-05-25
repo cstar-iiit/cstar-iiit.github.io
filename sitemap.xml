@@ -3,22 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cstar.iiit.ac.in/</loc>
-    <lastmod>2023-04-10T17:00:00+05:30</lastmod>
+    <lastmod>2023-05-10T17:00:00+05:30</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/</loc>
-    <lastmod>2023-04-10T17:00:00+05:30</lastmod>
+    <lastmod>2023-05-10T17:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://cstar.iiit.ac.in/events/theory-seminar/fast_multivariate_multipoint_evaluation/</loc>
-    <lastmod>2023-04-10T17:00:00+05:30</lastmod>
+    <loc>http://cstar.iiit.ac.in/events/theory-seminar/how_to_store_a_graph/</loc>
+    <lastmod>2023-05-10T17:00:00+05:30</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/</loc>
-    <lastmod>2023-04-10T17:00:00+05:30</lastmod>
-  </url><url>
-    <loc>http://cstar.iiit.ac.in/events/theory-seminar/algorithmizing_the_multiplicity_schwartz-zippel_lemma/</loc>
-    <lastmod>2023-02-10T17:00:00+05:30</lastmod>
-  </url><url>
-    <loc>http://cstar.iiit.ac.in/events/theory-seminar/godsil_type_identities/</loc>
-    <lastmod>2022-10-08T17:00:00+05:30</lastmod>
+    <lastmod>2023-05-10T17:00:00+05:30</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/demystifying-the-border-of-depth-3-algebraic-circuits/</loc>
     <lastmod>2022-02-02T17:00:00+05:30</lastmod>
@@ -95,6 +89,8 @@
     <loc>http://cstar.iiit.ac.in/research-areas/theory-for-ml/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url><url>
+    <loc>http://cstar.iiit.ac.in/events/theory-seminar/algorithmizing_the_multiplicity_schwartz-zippel_lemma/</loc>
+  </url><url>
     <loc>http://cstar.iiit.ac.in/people/faculty/ankitgangwal/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/people/faculty/ashokdas/</loc>
@@ -102,6 +98,10 @@
     <loc>http://cstar.iiit.ac.in/news/cqst-inagurated/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/news/acm_topc/</loc>
+  </url><url>
+    <loc>http://cstar.iiit.ac.in/events/theory-seminar/fast_multivariate_multipoint_evaluation/</loc>
+  </url><url>
+    <loc>http://cstar.iiit.ac.in/events/theory-seminar/godsil_type_identities/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/people/faculty/indranilchakrabarty/</loc>
   </url><url>

@@ -6,7 +6,16 @@
     <description>Recent content in Center for Security, Theory and Algorithmic Research on CSTAR | IIIT Hyderabad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2023 17:00:00 +0530</lastBuildDate><atom:link href="http://cstar.iiit.ac.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 14:00:00 +0530</lastBuildDate><atom:link href="http://cstar.iiit.ac.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Point Functions meet Secure Multiparty Computation</title>
+      <link>http://cstar.iiit.ac.in/events/theory-seminar/distributed_point_functions_meet_secure_multiparty_computation/</link>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0530</pubDate>
+      
+      <guid>http://cstar.iiit.ac.in/events/theory-seminar/distributed_point_functions_meet_secure_multiparty_computation/</guid>
+      <description>Abstract: Secure Multiparty Computation allows two or more computing parties to collaboratively compute some function on their (secret) inputs while keeping their inputs secret. MPC has a wide range of applications for privacy-protecting systems. However, unfortunately, the efficiency of MPC protocols is still somewhat limited. Distributed Point Functions (DPFs) are cryptographic primitives allowing us to share a standard-basis vector among two or more parties succinctly. In this talk, we present novel techniques which use DPFs to construct efficient MPC protocols.</description>
+    </item>
+    
     <item>
       <title>How to store a graph?</title>
       <link>http://cstar.iiit.ac.in/events/theory-seminar/how_to_store_a_graph/</link>
@@ -226,15 +235,6 @@ Some of the fundamental outcomes of current generation research in parallel comp
       
       <guid>http://cstar.iiit.ac.in/news/cqst-inagurated/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Point Functions meet Secure Multiparty Computation</title>
-      <link>http://cstar.iiit.ac.in/events/theory-seminar/distributed_point_functions_meet_secure_multiparty_computation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://cstar.iiit.ac.in/events/theory-seminar/distributed_point_functions_meet_secure_multiparty_computation/</guid>
-      <description>Abstract: Secure Multiparty Computation allows two or more computing parties to collaboratively compute some function on their (secret) inputs while keeping their inputs secret. MPC has a wide range of applications for privacy-protecting systems. However, unfortunately, the efficiency of MPC protocols is still somewhat limited. Distributed Point Functions (DPFs) are cryptographic primitives allowing us to share a standard-basis vector among two or more parties succinctly. In this talk, we present novel techniques which use DPFs to construct efficient MPC protocols.</description>
     </item>
     
     <item>

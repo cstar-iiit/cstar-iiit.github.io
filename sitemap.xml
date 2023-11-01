@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cstar.iiit.ac.in/</loc>
-    <lastmod>2023-05-10T17:00:00+05:30</lastmod>
+    <lastmod>2023-11-01T14:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://cstar.iiit.ac.in/events/theory-seminar/distributed_point_functions_meet_secure_multiparty_computation/</loc>
+    <lastmod>2023-11-01T14:00:00+05:30</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/</loc>
-    <lastmod>2023-05-10T17:00:00+05:30</lastmod>
-  </url><url>
-    <loc>http://cstar.iiit.ac.in/events/theory-seminar/how_to_store_a_graph/</loc>
-    <lastmod>2023-05-10T17:00:00+05:30</lastmod>
+    <lastmod>2023-11-01T14:00:00+05:30</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/</loc>
+    <lastmod>2023-11-01T14:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://cstar.iiit.ac.in/events/theory-seminar/how_to_store_a_graph/</loc>
     <lastmod>2023-05-10T17:00:00+05:30</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/demystifying-the-border-of-depth-3-algebraic-circuits/</loc>
@@ -96,8 +99,6 @@
     <loc>http://cstar.iiit.ac.in/people/faculty/ashokdas/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/news/cqst-inagurated/</loc>
-  </url><url>
-    <loc>http://cstar.iiit.ac.in/events/theory-seminar/distributed_point_functions_meet_secure_multiparty_computation/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/news/acm_topc/</loc>
   </url><url>

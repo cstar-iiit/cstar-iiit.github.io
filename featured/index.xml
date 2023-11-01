@@ -6,13 +6,22 @@
     <description>Recent content in Featured on CSTAR | IIIT Hyderabad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://cstar.iiit.ac.in/featured/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://cstar.iiit.ac.in/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>true</title>
       <link>http://cstar.iiit.ac.in/featured/true/</link>
-      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>http://cstar.iiit.ac.in/featured/true/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>false</title>
+      <link>http://cstar.iiit.ac.in/featured/false/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://cstar.iiit.ac.in/featured/false/</guid>
       <description></description>
     </item>
     

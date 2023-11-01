@@ -14,6 +14,15 @@
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/</loc>
     <lastmod>2023-11-01T14:00:00+05:30</lastmod>
   </url><url>
+    <loc>http://cstar.iiit.ac.in/featured/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://cstar.iiit.ac.in/events/fsttcs23/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://cstar.iiit.ac.in/featured/true/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/how_to_store_a_graph/</loc>
     <lastmod>2023-05-10T17:00:00+05:30</lastmod>
   </url><url>
@@ -53,13 +62,10 @@
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/shortest_paths_in_time_varying_networks/</loc>
     <lastmod>2021-08-18T17:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://cstar.iiit.ac.in/featured/</loc>
+    <loc>http://cstar.iiit.ac.in/featured/false/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/nqsts-event/</loc>
-    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://cstar.iiit.ac.in/featured/true/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://cstar.iiit.ac.in/research-areas/algorithms-complexity/</loc>
@@ -104,6 +110,8 @@
   </url><url>
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/fast_multivariate_multipoint_evaluation/</loc>
   </url><url>
+    <loc>http://cstar.iiit.ac.in/news/fsttcs_23/</loc>
+  </url><url>
     <loc>http://cstar.iiit.ac.in/events/theory-seminar/godsil_type_identities/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/people/faculty/indranilchakrabarty/</loc>
@@ -119,8 +127,6 @@
     <loc>http://cstar.iiit.ac.in/people/faculty/samyadebbhattacharya/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/people/faculty/shantanavchakraborty/</loc>
-  </url><url>
-    <loc>http://cstar.iiit.ac.in/news/sumit-kumar/</loc>
   </url><url>
     <loc>http://cstar.iiit.ac.in/people/faculty/suryajith.chillara/</loc>
   </url>
